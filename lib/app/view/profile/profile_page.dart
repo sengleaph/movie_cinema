@@ -35,7 +35,7 @@ class _ProfilePageState extends State<ProfilePage> {
                 ),
                 const TextSpan(
                   text:
-                  ". And this application I created for testing around 2 days. I hope you enjoy and test it because I create it with only get method that i fetch from the api. In a short time, I think I should add a trailer video into this app. If you want me to add it, I would gladly add it for you. Thank you.",
+                  ". And this application I created for testing around 2 days. I hope you enjoy and test it because I used it with the legend cinema API. In a short time, I think I should add a trailer video into this app. If you want me to add it, I would gladly add it for you. Thank you.",
                 ),
               ],
             ),

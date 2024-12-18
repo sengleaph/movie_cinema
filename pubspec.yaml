@@ -43,6 +43,7 @@ dependencies:
   provider: ^6.1.2
   youtube_player_flutter: ^9.1.1
   flutter_dotenv: ^5.0.2
+  flutter_secure_storage: ^9.0.0
 
 #  flutter_keyboard_visibility:
 dev_dependencies:
@@ -71,7 +72,6 @@ flutter:
   assets:
     - Assets/images/
     - .env
-
   #   - images/a_dot_ham.jpeg
   fonts:
     - family: Roboto

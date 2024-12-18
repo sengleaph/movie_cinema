@@ -243,7 +243,7 @@ class _HomePageState extends State<HomePage> {
                   const SizedBox(height: 10),
                   SizedBox(
                     height: MediaQuery.of(context).size.height *
-                        .339, // Constrain height for ListView
+                        .4, // Constrain height for ListView
                     child: ListView.builder(
                       scrollDirection: Axis.horizontal,
                       itemCount: 5,

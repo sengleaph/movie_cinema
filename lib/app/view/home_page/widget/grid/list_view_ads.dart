@@ -6,8 +6,8 @@ class ListViewAds extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 310,
-      width: 400,
+      // height: MediaQuery.of(context).size.height * .,
+      width: MediaQuery.of(context).size.width * .8,
       margin: EdgeInsets.symmetric(vertical: 10, horizontal: 15),
       decoration: BoxDecoration(
           color: Colors.white, borderRadius: BorderRadius.circular(15)),
