@@ -71,6 +71,7 @@ flutter:
   assets:
     - Assets/images/
     - .env
+
   #   - images/a_dot_ham.jpeg
   fonts:
     - family: Roboto
